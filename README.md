@@ -8,4 +8,4 @@ Upload a resume to Resumémon to generate a Pokemon out of the resume. If you up
 2. Run `npm install` to install some dependencies.
 3. Run `npm start` and go to [http://localhost:3000](http://localhost:3000/).
 
-A demo can also be found [here](https://resumemon.rice.sh/).
+Resumémon is also live [here](https://resumemon.rice.sh/).
