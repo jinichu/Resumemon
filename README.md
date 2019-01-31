@@ -10,4 +10,4 @@ Upload a resume to Resumémon to generate a Pokemon out of the resume. If you up
 
 ## Live Demo
 
-A demo can be found here: https://resumemon.rice.sh/
+A demo can be found [here](https://resumemon.rice.sh/).
